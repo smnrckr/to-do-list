@@ -7,9 +7,9 @@
 
 let addingMess = document.querySelector("#liveToast");
 let empty = document.querySelector("#liveToast2")
-let newInput =document.querySelector("#task");
-let ekle =document.querySelector("#liveToastBtn");
-let liste =document.querySelector("#list");
+let newInput = document.querySelector("#task");
+let ekle = document.querySelector("#liveToastBtn");
+let liste = document.querySelector("#list");
 let toDO = document.querySelector("#formInput")
 toDO.addEventListener('submit', formSubmit);
 let close = document.getElementsByClassName("close");
