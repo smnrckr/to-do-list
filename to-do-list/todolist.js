@@ -12,7 +12,7 @@ let ekle = document.querySelector("#liveToastBtn");
 let liste = document.querySelector("#list");
 let toDO = document.querySelector("#formInput")
 toDO.addEventListener('submit', formSubmit);
-let close = document.getElementsByClassName("close");
+
 
 
 //eklendi mesajı
